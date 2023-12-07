@@ -7,7 +7,7 @@ The corpus was used to develop ContextD algorithm.
 **Availability**
 EMC Dutch Clinical Corpus
 
-The corpus is available for non-commercial research purposes. Please contact Jan Kors for further information.
+The corpus is available for non-commercial research purposes. Please contact [Jan Kors](mailto:j.kors@erasmusmc.nl) for further information.
 
  
 
